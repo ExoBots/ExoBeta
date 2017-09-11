@@ -1,6 +1,6 @@
-#ExoBeta : The Beta Bot From The ExoBots Team!
+# ExoBeta : The Beta Bot From The ExoBots Team!
 
-###How do i setup?
+### How do i setup?
 You will need : Node.Js, Python, FFmpeg and a IDE.
 
 First go to [Disocrd Developers](https://discordapp.com/developers),
@@ -18,7 +18,7 @@ Save the js file
 
 go into your CMD and type 'node index' and the bot will start up!
 
-#ExoBeta support team :
+# ExoBeta support team :
 
 [Our Discord](https://discord.gg/pfXHuf4)
 [Website coming soon]
