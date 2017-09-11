@@ -2,7 +2,6 @@ const Discord = require('discord.js');
 const music = require('discord.js-music-v11');
 const Bot = new Discord.Client();
 const token = "<token>" // Recommended to load from json file. 
-const prefix = "<your prefix>";
 
 Bot.on('ready', () => {
     console.log(`[Start] ${new Date()}`);
